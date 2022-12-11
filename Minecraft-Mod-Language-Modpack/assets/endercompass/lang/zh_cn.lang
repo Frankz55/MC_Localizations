@@ -1,0 +1,5 @@
+item.ender_compass.name=末影罗盘
+endercompass.configgui.title=末影罗盘｜配置
+endercompass.configgui.checkInventory=物品栏检测
+endercompass.configgui.checkInventory.tooltip=设为 true 则玩家需在物品栏中保有末影罗盘方可使其正常工作
+item.compassEnd.name=末影指南针
