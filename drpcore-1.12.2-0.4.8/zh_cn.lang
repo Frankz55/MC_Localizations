@@ -1,0 +1,17 @@
+drpcore.keyBinding.openPurse=打开腰包
+drpcore.keyBinding.openCrafting=打开合成面板
+drpcore.keyBinding.openInventory=打开物品栏
+drpcore.keyBinding.placement_preview=打开/关闭放置预览
+
+drpcore.tutorial.crafting.title=打开合成面板
+drpcore.tutorial.crafting.desc=使用 '%s' 打开制造面板。
+
+drpcore.util.modName=深邃黑暗角色扮演-核心模组
+drpcore.update.newVersionAvailable=发现新版本！
+drpcore.update.currentVersion=您现在的版本是
+drpcore.update.latestVersion=最新的版本是
+drpcore.update.openDownload=点击此处进入下载界面，
+drpcore.update.openChangelog=或者点击此处进入更新日志。
+
+drpcore.crafting.freeCrafting=自由合成
+crafting.defaultCategory.name=默认种类
